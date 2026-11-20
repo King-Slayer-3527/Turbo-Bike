@@ -1,0 +1,23 @@
+# Exclude raw source code from repository (only app binaries and docs are published)
+Source-Code/
+*.kt
+*.java
+*.gradle
+*.kts
+.gradle/
+build/
+local.properties
+*.class
+*.dex
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor files
+.idea/
+.vscode/
+*.log

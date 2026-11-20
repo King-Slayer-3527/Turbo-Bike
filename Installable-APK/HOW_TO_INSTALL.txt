@@ -1,0 +1,62 @@
+=======================================================
+ 🏍️ Turbo Bike Mode (UNIVERSAL ANDROID APP)
+ Version: 1.1.0 (Build 11) - Custom Saved Numbers & Carrier Divert Edition
+=======================================================
+
+HOW IT WORKS:
+-------------------------------------------------------
+1. 🔕 100% TRUE SILENT RIDE:
+   - Your phone stays completely silent while riding.
+   - NO speakerphone, NO noise in your earbuds, NO wind interference.
+
+2. 📵 ENTER & SAVE CUSTOM DUMMY / SWITCHED-OFF NUMBERS:
+   - Built-in "Save Number" Feature:
+     • Type any 10-digit number (such as an old expired SIM from your drawer, a family member's switched-off phone, or an unallocated dummy number).
+     • Enter an optional custom label (e.g. "My Old Jio SIM", "Dad's Spare Keypad").
+     • Tap "SAVE" – saved instantly into the app's permanent storage and native Android system!
+     • The app maintains a "📁 Saved Numbers Library": tap any saved card to activate it anytime.
+     • Tap "📋 COPY" to copy the active number to your clipboard with one touch.
+   - Understanding Carrier Announcements:
+     • Real turned-off SIM: The carrier IVR announces "The number you are calling is switched off / currently unreachable" (Hindi & English).
+     • Unallocated dummy number (e.g. 9800000000): The carrier IVR announces "The number you have dialed is not in service / does not exist".
+   - Carrier Format Selector:
+     • [GSM / Airtel / Vi / BSNL] (*67*<NUMBER>#)
+     • [Jio VoLTE] (*404*<NUMBER>)
+     • [Custom Code] (set your own prefix)
+   - 100% GUARANTEED SHORTCUT (PHONE SETTINGS):
+     • Tap "⚙️ Open Phone Call Settings" directly inside Turbo Bike.
+     • In Android Phone Settings -> Call Forwarding -> "When Busy", paste your saved number.
+     • This bypasses keypad MMI codes entirely and works 100% on all 4G VoLTE & 5G networks!
+
+3. 📩 INSTANT DUAL-LANGUAGE SMS DELIVERED TO CALLER:
+   - Within 1.5 seconds of the call ending, the caller receives this SMS:
+
+   "🏍️ Turbo Bike Mode:
+    I am riding a bike right now and cannot answer. If this is an URGENT emergency, please call me 3 times to ring my phone.
+
+    नमस्ते, मैं अभी बाइक चला रहा हूँ। अगर कोई ज़रूरी बात है, तो कृपया मुझे 3 बार कॉल करें।"
+
+4. 🚨 3-CALL EMERGENCY BREAKTHROUGH:
+   - If the caller calls 3 times within 5 minutes, Turbo Bike recognizes it as an emergency!
+   - The call will NOT be cut and will NOT be forwarded.
+   - Your phone overrides silent mode and rings aloud at MAX volume with the emergency siren and saved contact name (Mom, Dad, etc.) so you can pull over and answer safely.
+
+5. 📋 RIDE CALL SUMMARY:
+   - When you finish riding and toggle Turbo Bike Mode OFF, the Ride Call Summary appears:
+     • Contact Name (e.g. Mom, Dad, Office)
+     • Phone Number
+     • Call Time (e.g. 10:14 PM)
+     • Number of Times Called (e.g. Called 2 times)
+     • Green "Call" button next to each person to return their call with 1 tap.
+
+-------------------------------------------------------
+HOW TO ALLOW SMS ON ANDROID 13 & 14 (1-TIME SETUP):
+-------------------------------------------------------
+Because this app is installed directly (sideloaded):
+1. Open phone Settings -> Apps -> Turbo Bike Mode.
+2. Tap the 3 dots (⋮) in the top-right corner.
+3. Tap "Allow restricted settings" and confirm with your PIN / fingerprint.
+4. Tap Permissions -> SMS -> Allow.
+5. Tap Permissions -> Phone & Contacts -> Allow.
+
+=======================================================
