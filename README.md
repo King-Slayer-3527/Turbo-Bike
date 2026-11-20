@@ -13,13 +13,28 @@
 
 <br>
 
-<a href="TurboBike.apk" download>
-  <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_TURBO_BIKE_APK-v1.1.0_(1.7_MB)-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
-</a>
+### 📥 Download Options (Choose Your Preferred Format)
+
+<p align="center">
+  <a href="TurboBike.apk" download>
+    <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_APK-v1.1.0_(1.7_MB)-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK">
+  </a>
+  &nbsp;&nbsp;
+  <a href="TurboBike-v1.1.0.zip" download>
+    <img src="https://img.shields.io/badge/📦_DOWNLOAD_ZIP_BUNDLE-v1.1.0_(1.6_MB)-0969da?style=for-the-badge&logo=zip&logoColor=white" alt="Download ZIP">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/King-Slayer-3527/Turbo-Bike/releases/tag/v1.1.0">
+    <b>🏷️ View GitHub Release Page (v1.1.0)</b>
+  </a>
+</p>
 
 <p align="center">
   <a href="#-key-features">Key Features</a> •
   <a href="#-how-it-works">How It Works</a> •
+  <a href="#-download-formats">Download Formats</a> •
   <a href="#-installation-guide">Installation</a> •
   <a href="#-carrier-divert-codes">Carrier Codes</a> •
   <a href="#-privacy--security-guarantee">Privacy</a> •
@@ -35,6 +50,16 @@
 **Turbo Bike Mode** is a high-performance, standalone Android application that brings **intelligent riding mode** to all Android smartphones (OnePlus, Xiaomi, Motorola, Samsung, Vivo, Oppo, Google Pixel, Realme, and others) without requiring OEM locks, special hardware widgets, or proprietary firmware.
 
 It solves the dangerous problem of distracted riding by keeping your phone **100% silent**, providing automatic **switched-off simulation** and **bilingual auto-reply SMS**, while guaranteeing that **genuine life-threatening emergencies can still break through** via an intelligent 3-call detection protocol.
+
+---
+
+## 📦 Download Formats
+
+| Format | File | Best For | Included Files |
+| :--- | :--- | :--- | :--- |
+| **Android APK** | [TurboBike.apk](TurboBike.apk) | Direct install on Android phones | Standalone signed production APK (v1.1.0) |
+| **ZIP Archive** | [TurboBike-v1.1.0.zip](TurboBike-v1.1.0.zip) | Backup, sharing, and desktop transfer | TurboBike.apk + HOW_TO_INSTALL.md guide |
+| **GitHub Release** | [Release v1.1.0](https://github.com/King-Slayer-3527/Turbo-Bike/releases/tag/v1.1.0) | Official version tag & release notes | Direct binary & source archive |
 
 ---
 
@@ -89,7 +114,7 @@ When a caller is disconnected during your ride, they instantly receive the follo
 
 ## 📥 Installation Guide
 
-1. **Download the APK**: Click **[TurboBike.apk](TurboBike.apk)** directly from this repository (or from the download badge above).
+1. **Download**: Choose either **[TurboBike.apk](TurboBike.apk)** or **[TurboBike-v1.1.0.zip](TurboBike-v1.1.0.zip)**.
 2. **Install**: Tap the .apk file on your device and select **Install**.
 3. **Grant Permissions (Android 13 / 14)**:
    - Go to phone **Settings &rarr; Apps &rarr; Turbo Bike Mode**.
@@ -101,7 +126,7 @@ When a caller is disconnected during your ride, they instantly receive the follo
 
 ## 📡 Carrier Divert Codes Reference
 
-Turbo Bike Mode includes built-in quick presets for major Indian and international telecom carriers:
+Turbo Bike Mode includes built-in quick presets for major telecom carriers:
 
 | Telecom Operator | Activation MMI Code | Cancellation Code |
 | :--- | :--- | :--- |
